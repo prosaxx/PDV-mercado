@@ -1,0 +1,183 @@
+body{
+    background-color: black;
+    overflow-y: hidden;
+}
+
+#menusuperior{
+    background: white;
+    height: 50px;
+    width: 100%;
+    left: 0px;
+    position: fixed;
+    top: 0px;
+    line-height: 15px;
+
+}
+
+#meio{
+    width: 800px;
+    display: block;
+    height: 80%;
+    position: fixed;
+    background: rgba(97, 94, 94, 0.459);
+    left: 5%;
+    margin-top: 4%;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+
+#produto{
+    background: white;
+    width: 90%;
+    height: 60px;
+    margin:auto ;
+    border-radius: 10px;
+    margin-top: 60px;
+    padding-left: 5px;
+    
+    
+}
+#modelo{
+    background: white;
+    width: 300px;
+    height: 43%;
+    margin:37px ;
+    border-radius: 10px;
+    position: fixed;
+    margin-top: 15px;
+   
+}
+#codigo{
+    
+    background: white;
+    width: 45%;
+    height: 60px;
+    margin: 40px;
+    border-radius: 10px;
+    float: right;
+    margin-top: 15px;
+    line-height: 10px;
+    padding-left: 5px;
+    
+}
+#quantidade{
+    background: white;
+    height: 60px;
+    width: 45%;
+    margin: 40px;
+    border-radius: 10px;
+    float: right;
+    margin-top: 10px;
+    line-height: 10px;
+    padding-left: 5px;
+}
+#valor{
+    background: white;
+    width: 45%;
+    height: 60px;
+    margin: 40px;
+    border-radius: 10px;
+    float: right;
+    margin-top:10px ;
+    line-height: 10px;
+    padding-left: 5px;
+    
+}
+#total{
+    background: white;
+    width: 45%;
+    height: 60px;
+    margin: 35%;
+    margin-right: 5%;
+    border-radius: 10px;
+    float: right;
+    margin-top: 10px;
+    line-height: 10px;
+    padding-left: 5px;
+}
+#venda{
+    background: white;
+    width: 38%;
+    height: 60px;
+    margin:auto ;
+    border-radius: 10px;
+    position: fixed;
+    margin: 450px;
+    margin-left: 30px;
+    line-height: 10px;
+    padding-left: 2px;  
+    text-align: center;
+}
+
+#meio2{
+    background: rgb(97, 94, 94, 0.459);
+    display: block;
+    width: 800px;
+    height: 80%;
+    position: fixed;
+    margin-left: 0;
+    margin-top: 4%;
+    right: 5%;
+    border-radius: 10px 10px 10px 10px;
+     
+}
+#nota{
+    font-family: 'Courier New', Courier, monospace;
+    background: whitesmoke;
+    width: 760px;
+    height: 600px;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+#volume{
+    background: white;
+    width: 370px;
+    height: 100px;
+    margin-left: 20px;
+    border-radius: 10px;
+    line-height: 80px;
+    padding-left: 2px;
+    
+    
+}
+#total2{
+    background: white;
+    width: 370px;
+    height: 100px;
+    margin-right: 20px;
+    float: right;
+    margin-top: -100px;
+    border-radius: 10px;
+    padding-left: 2px;
+
+}
+#meio2 img{
+    width: 350px;
+    height: 600px;
+    margin-left: 200px;
+
+}
+
+#modelo img{
+    width: 300px;
+    height: 300px;
+    margin-left: 0px;
+}
+
+
+
+
+
+footer{
+    background: white;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    left: 0px;
+    line-height: 0px;
+}
+
+
